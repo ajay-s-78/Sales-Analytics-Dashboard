@@ -27,3 +27,4 @@ This project is a Sales Analytics Dashboard built using Power BI and MySQL. It h
 Ajay-S
 Computer Science Student
 Nandha Arts and Science College
+GitHub: @ajay-s-78
