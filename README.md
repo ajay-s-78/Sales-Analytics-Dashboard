@@ -21,7 +21,7 @@ This project is a Sales Analytics Dashboard built using Power BI and MySQL. It h
 - Region and Category Filters
 
 ## Dashboard Preview
-(Add your dashboard screenshot here)
+![Dashboard](dashboard.png)
 
 ## Author
 Ajay-
